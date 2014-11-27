@@ -1,0 +1,186 @@
+3/6/2014  0:0:0  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	sensorsmeeting(a,u,s,p)
+3/7/2014  16:19:0  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	ulbuffersmeeting(u,s)
+3/12/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	meeting(U,a)
+M	|8hourMeetingWithU:sbj:interface|
+M	todo:
+M	spaces instead of tabs
+M	commit changes for U. to review 
+M	test if data come without errors, consider - no delays and locks
+M	split logs
+M	commit test program 
+3/18/2014  0:0:0  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	hidbuffers(u,m,,2d)
+3/18/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+R	86400 1396310400 0 0 0
+N	continious-meetings-datchiki
+3/19/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	SpdChngAsk(b)
+3/19/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	planOfMeetingWithDatchi
+3/19/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	com4:i,u,a
+3/31/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+R	86400 1396310400 0 0 0
+N	sensorsresultmeeting(plan)
+4/2/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	SensorFuture
+4/9/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	pln:TestResultsHID
+5/7/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---MY----- 0 0
+N	>>MeetingMA1525
+5/12/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	TermMeetingPlan
+5/13/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	actMtWithBD
+5/15/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	sirenaVirtReq
+5/16/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	sirenaVirtCopied(morning)
+5/19/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MA:simpleStateKeyQuest
+5/22/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	valentin+3sergs =>>
+M	kawaev sergey sergeevich
+M	leibovich valentin alexandrovich 
+5/23/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	Garmonshikov+Vasilev
+5/26/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	mtngWithAM:buildingSirena
+5/27/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	Livshic&MAA:64bitParser
+6/4/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MtngDmitryXml
+6/6/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	mtng,MA,noffice:ParsingKbd
+6/11/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAfinal
+7/17/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAmtng:LPT,HookSW,Doxy,CP12
+7/24/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	meeting:polycom,lpt-on-sirena
+M	lpt-wrk-for-windwos-term: http://192.168.254.12/svn/Development/branches/Stage/MVT-LPT
+M	astra-to-check-lpt: AstraLinux Orel 1.7 (+)
+M	sirena: ckecking-how-enable-the-lpt-port
+M	we-should-use-registrers-and-parport-device-for-linux-first
+7/28/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	meeting:vasilv:parport0:access
+7/28/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	ma:plycom,plantronics,lpt,kbd
+7/29/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	ma:lptsample
+7/31/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	ma:newTerminalVahtenyOficer
+8/1/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	ma:newTasksInRedMine,2wkHD
+8/12/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	BDV:status
+8/13/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:powerInves
+8/14/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	BUV:x64Warnings
+8/15/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:replacedPower,TerminalNotStableWithNewPwer
+M	- LVA: nesti ego k Maslukam QQQ
+8/18/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:results
+8/19/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:xTrmnlBack
+8/20/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:powerSupplyBack
+8/21/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:statusTermQ
+8/26/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA,LVA,VAV:replacedTerm
+M	VAV:vasiljevAlekseyVladimirovich
+9/1/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+9/2/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MA:1520:quickStatus
+9/3/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MA:1500:statusReq;
+9/8/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+R	86400 1410220800 0 0 0
+N	MAA:loggerDisabled
+9/11/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:BVB:BuikovVladimirBorisovich;voenkom
+M	BuikovVladimirBorisovich:8-981-817-31-59
+M	========================================
+9/16/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	AAV:TermV3CameIn:AndreevArsenVladimirovich
+M	AAV:AndreevArsenVladimirovich
+9/17/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	BDV;MAA:checkedTermV3
+9/18/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	???:IPfixupTV3
+9/18/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	VAV:tryTakeOutTV3
+9/19/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	VAV:fixBothTerms:172.18.1.32
+M	IP:172.18.1.32
+M	==============
+M	Admins:Phone422
+M	Admins:BobrovDmitriSergeevich(BDS)
+9/29/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	BDV:T3willOut
+9/29/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	VAV:changedIP
+9/29/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	5.77HoursMissing
+9/30/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:terminatingLPT;rename;5.77H
+9/30/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	Arsen:TermOutT3
+M	AndreevArsen
+10/1/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:T4income
+10/6/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:queryStatusJbr
+10/7/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:additionalBtnsAddJbr
+10/9/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+R	86400 1412899200 0 0 0
+N	LfsBtnAutoBuildBug
+10/15/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+R	86400 1413417600 0 0 0
+N	MAA:translatorsLinux;MvtPins;Jenkins;
+10/16/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:term5In,4Still;
+10/17/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	BDV:LampStatus;
+10/17/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:term5Status
+10/17/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:WillFixBaseTerm
+10/20/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	KM4:TakeOutTermV4
+10/20/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:LampReleIn
+10/21/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	BKA:kasperUpdated;dhcp:crash;
+10/29/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	4ee:groupPhoto
+11/12/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+R	86400 1415836800 0 0 0
+N	MAA:vseObsudit
+11/13/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+R	86400 1415923200 0 0 0
+N	LVA:screwDownOneTerm;IP;
+11/14/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:keysFromStend;
+11/17/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:NewTermsIn11Korpus
+11/18/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:IntSpkMkNok->ok(1term)
+M	1Term:ok
+M	2Term:noParPort
+11/19/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:OtklPeredachaZvukaNote
+M	LVA:otkluchenaPeredachaZvuka(Note)
+11/21/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:BadTermOut
+11/26/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:alsa-settings
+11/27/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:internal-mic

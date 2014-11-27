@@ -1,0 +1,32 @@
+plan V1.10.1
+o	-----w---us-c- 0 0 0 8 20 7
+O	-------------------------
+t	0 -14400 2 64 220
+e	w-- 
+l	w-- 
+a	w-- 
+y	s--------- 1 1 2
+P	---------- 0
+p	an V1.10.1
+m	Mail -s %s sergeyn
+u	sergeyn         /home/sergeyn/.plan.dir/dayplan 0  0 0 1 0 0 sergeyn-VirtualBox 0
+u	snwhday         /home/sergeyn/.plan.dir/snwhday 0  2 0 1 0 0 sergeyn-VirtualBox 0
+u	snwpev          /home/sergeyn/.plan.dir/snwpev 0  3 0 1 0 0 sergeyn-VirtualBox 0
+u	snwpevbday      /home/sergeyn/.plan.dir/snwpevbday 0  2 0 1 0 0 sergeyn-VirtualBox 0
+u	snwpdin         /home/sergeyn/.plan.dir/snwpdin 0  1 0 1 0 0 sergeyn-VirtualBox 0
+u	snwpp           /home/sergeyn/.plan.dir/snwpp 0  2 0 1 0 0 sergeyn-VirtualBox 0
+u	snwphx          /home/sergeyn/.plan.dir/snwphx 0  6 0 1 0 0 sergeyn-VirtualBox 0
+u	snwihtask       /home/sergeyn/.plan.dir/snwihtask 0  7 0 1 0 0 sergeyn-VirtualBox 0
+u	snwihdoc        /home/sergeyn/.plan.dir/snwihdoc 0  3 0 1 0 0 sergeyn-VirtualBox 0
+u	snwihprsn       /home/sergeyn/.plan.dir/snwihprsn 0  4 0 1 0 0 sergeyn-VirtualBox 0
+u	snwihmtng       /home/sergeyn/.plan.dir/snwihmtng 0  5 0 1 0 0 sergeyn-VirtualBox 0
+u	snwihown        /home/sergeyn/.plan.dir/snwihown 0  6 0 1 0 0 sergeyn-VirtualBox 0
+u	snwihhwsw       /home/sergeyn/.plan.dir/snwihhwsw 0  4 0 1 0 0 sergeyn-VirtualBox 0
+u	snwih           /home/sergeyn/.plan.dir/snwih 0  1 0 1 0 0 sergeyn-VirtualBox 0
+u	snwihtd         /home/sergeyn/.plan.dir/snwihtd 0  7 0 1 0 0 sergeyn-VirtualBox 0
+u	snwiho          /home/sergeyn/.plan.dir/snwiho 0  2 0 1 0 0 sergeyn-VirtualBox 0
+1/1/1970  0:0:0  0:0:0  0:0:0  0:0:0  ---------- 0 0
+1/22/2014  0:0:0  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	tst
+1/23/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	tst
