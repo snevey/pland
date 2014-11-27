@@ -1,0 +1,21 @@
+20140107Tue@0039
+================
+
+/etc/rsyslog.d/50-default.conf
+
+local1.*                                                        /var/log/local-command.log
+
+~/.bashrc
+
+export PS1="\[\e[32m\]\t > \[\e[m\]"
+function log2syslog
+{
+   declare COMMAND
+   COMMAND=$(fc -ln -0)
+   logger -p local1.notice -t bash -i -- "${USER}:${COMMAND}:${PWD}"
+}
+trap log2syslog DEBUG
+
+---------------------------------------------------
+vim: set spelllang=ru tabstop=4 modeline verbose syntax=markdown:
+---------------------------------------------------
