@@ -186,3 +186,7 @@ N	LVA:alsa-settings
 N	LVA:internal-mic
 11/27/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
 N	MAA:statusByMsg
+12/2/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:internalMicSolved
+12/2/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:msg:solveX64Builds
