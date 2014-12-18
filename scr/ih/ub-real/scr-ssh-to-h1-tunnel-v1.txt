@@ -1,0 +1,2 @@
+ssh -Y  -L 4110:localhost:4110 -L 3128:localhost:3128 -L 2110:localhost:110 -L 2025:localhost:25 -oPort=443 sn1@$1
+#ssh -Y -p 443  sn1@$1

@@ -1,0 +1,1 @@
+VBoxManage modifyhd 20141202-w7-vbox-disk.vdi  --resize 40000

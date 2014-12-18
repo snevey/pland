@@ -1,0 +1,3 @@
+pushd  /media/sergeyn/C0BC487FBC487248/work/sergeyn/ext/src/repository/git/git-a/trfixe
+pushd amgHID/amgHIDLib/Source/Linux
+git diff -w -W 132c395b78fc849cc033316bb003d02481a0b60a @ ./hidHIDRAW.cpp

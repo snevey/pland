@@ -1,0 +1,15 @@
+# 
+# V.: 20141218Thu@0833
+#
+#
+fdate=`date \+\%Y\%m\%d\%a@\%H\%M`
+#
+# -*- mode: org; coding: utf-8;   mode: flyspell -*-
+# mode: linum ;
+#
+echo '-*- mode: org ; mode: linum ; coding: utf-8; mode: flyspell -*-'  >> $fdate"wfl.txt"
+echo '<!---'  >> $fdate"wfl.txt"
+echo 'vim: set spelllang=ru tabstop=4 modeline verbose syntax=markdown:'  >> $fdate"wfl.txt"
+echo '-->'  >> $fdate"wfl.txt"
+echo "* "$fdate >> $fdate"wfl.txt"
+gzip $fdate"wfl.txt"

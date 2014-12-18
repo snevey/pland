@@ -1,0 +1,2 @@
+feh -Z -.  -D 1 --geometry 300x300 $1
+#feh -Z -.  -D 1. /home/sergeyn/Pictures/ch/*

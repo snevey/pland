@@ -1,0 +1,6 @@
+fdate=`date \+\%Y\%m\%d\%a@\%H\%M`
+fname=$fdate"scr-pi.tar.gz"
+echo "target file: "$fname
+tar -C /home/sergeyn/ -czvf $fname ./Pictures
+cp -v $fname /media/sergeyn/ed8d216f-9e94-42f1-951b-1bf5d25889ae/home/sergeyn/Documents/backups/
+

@@ -1,0 +1,1 @@
+tar -C /home/sergeyn/sources/drive_d/work/sergeyn/doc/int/ -czvf `date \+\%Y\%m\%d\%a@\%H\%M`int.tar.gz ./

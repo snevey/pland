@@ -1,0 +1,2 @@
+ git log   --author=sergeyn --author=Sergey  --graph --pretty=format:" %Cblue %h %Creset  %an,  %Cgreen %aD %ar   %Cred >>%s<<" ./
+# git log     --graph --pretty=format:" %Cblue %h %Creset  %an,  %Cgreen %aD %ar   %Cred >>%s<<" ./

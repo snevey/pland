@@ -1,0 +1,3 @@
+feh -Z -.  -D 1 --geometry 300x500 ~/Pictures/int/hm/ph-xenium/$1
+#feh -Z -.  -D 1 --geometry 300x500 ~/Pictures/hm/ph-xenium/20141211/ 
+#feh -Z -.  -D 1. /home/sergeyn/Pictures/ch/*

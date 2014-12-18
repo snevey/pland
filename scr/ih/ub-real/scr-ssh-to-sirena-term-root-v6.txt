@@ -1,0 +1,5 @@
+ssh -Y  root@172.18.1.222
+#ssh root@172.18.1.32
+#ssh root@10.20.3.41
+#ssh root@10.20.3.40
+#ssh root@10.90.1.21

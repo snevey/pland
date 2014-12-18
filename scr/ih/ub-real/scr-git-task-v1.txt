@@ -1,0 +1,1 @@
+pushd  /media/sergeyn/C0BC487FBC487248/work/sergeyn/ext/src/repository/git/git-a/trfixe

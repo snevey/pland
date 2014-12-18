@@ -1,0 +1,1 @@
+tar -C /home/sergeyn/sources/drive_d/work/sergeyn/doc/int/wfl/2014/ -czvf `date \+\%Y\%m\%d\%a@\%H\%M`wfl.tar.gz ./

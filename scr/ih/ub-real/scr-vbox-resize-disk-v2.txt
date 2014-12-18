@@ -1,0 +1,1 @@
+VBoxManage modifyhd virt-hdd-for-v7u.vdi  --resize 30000

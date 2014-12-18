@@ -1,0 +1,1 @@
+sudo /sbin/mount.cifs //192.168.10.61/G -o ip=192.168.10.61,port=4445,user=sergeyn,uid=sergeyn,gid=sergeyn ~/Documents/ih/mnt/remote/cifs1/

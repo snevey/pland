@@ -1,0 +1,2 @@
+tar -czvf `date \+\%Y\%m\%d\%a@\%H\%M`emsettings.tar.gz ./.emacs /home/sergeyn/Documents/ihpwd.psafe3
+

@@ -1,0 +1,4 @@
+pushd  /media/sergeyn/C0BC487FBC487248/work/sergeyn/ext/src/repository/git/git-a/trfixe
+pushd  amgHID/amgHIDLib/Source/Windows
+git diff -w -W 535cc080b6f9e545fce535af2ce9e5c34e1a86fc 9d04a74764f11c1f5b47e4cfb82e91ddb0bad1de ./hidHIDAPI.cpp
+
