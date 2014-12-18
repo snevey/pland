@@ -40,3 +40,7 @@ N	ebarcaderodebugger
 N	LinuxX64Tests(otherPlatfroms?)
 9/16/2014  8:0:0  0:0:0  0:0:0  0:0:0  ---------- 0 0
 N	checkHeater800
+12/10/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	CheckX64CommitResultsJanki
+12/15/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	CheckSetupOfDevEnvLFS(path)

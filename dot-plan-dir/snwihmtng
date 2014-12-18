@@ -190,3 +190,14 @@ N	MAA:statusByMsg
 N	LVA:internalMicSolved
 12/2/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
 N	MAA:msg:solveX64Builds
+12/5/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:brokenPARPORT
+12/8/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:msg:newBugInRedmin(hook)
+12/12/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	LVA:showkey
+M	showkey
+M	xkbwatch
+M	xev
+12/17/2014  99:99:99  0:0:0  0:0:0  0:0:0  ---------- 0 0
+N	MAA:statusQmsg
